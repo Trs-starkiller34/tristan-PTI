@@ -1,0 +1,13 @@
+python memiliki 2 tipe data yaitu memiliki tipe data primitiv dan non primitiv
+- primitiv: - integer(int)   : numerikal
+          - string(str)    :karakter a-z, 1-9,special char 
+          - float (float)  : bilangan desimal (bilangan berkoma)
+          - boolean (bool) : nilai berupa true/false, 0/1
+- note: 
+    - (gunakan variabel yang mudah dibaca)
+    - harus ditambahkan "" untuk menampilkan karakter 
+    - tanda # untuk sebuah kata yang tidak akan dibaca oleh python / complier
+    - usahakan membuat dokkumentasinya 
+    - setiap operasi (operation) matematika bisa dilakukan di dalam permograman
+    - 
+- non primitiv: 
